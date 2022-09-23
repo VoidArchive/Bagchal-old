@@ -34,6 +34,8 @@
 	});
 </script>
 
-<canvas bind:this={canvas} width="700" height="700" />
+<canvas bind:this={canvas} width="1000" height="1000" />
 
+<img src="/tiger1.svg" alt="" />
+<img src="/goat.svg" alt="" />
 <slot />
