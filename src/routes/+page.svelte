@@ -1,10 +1,2 @@
-<script lang="ts">
-	import Canvas from '$lib/UI/Board.svelte';
-
-	let squareLength = 500;
-	let color = 'blue';
-</script>
-
-<main class="grid place-items-center">
-	<Canvas {squareLength} {color} />
-</main>
+<h1>Welcome to SvelteKit</h1>
+<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
